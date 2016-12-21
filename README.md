@@ -11,7 +11,7 @@ The script will pause, when you press any key, it will undo the changes.
 
 The prompt for who to move/assign the address to can be either a username or e-mail address.  
 The script will query Exchange for an account matching your input, so either will do.
-
-
-
+ 
+ 
+ 
 Distributed under MIT License
