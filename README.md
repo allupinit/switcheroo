@@ -1,8 +1,7 @@
 # switcheroo
 Switch (or add) an Exchange SMTP Alias temporarily
 
-Original version of the Powershell Script.
-Tested, and fully operational with no known glitches.
+The original version has been tested by me, and is fully operational with no known glitches.
 
 Will prompt for e-mail address, check exchange to see who it belongs to.
 If it belongs to someone it will remove it from that person and add it to whomever you choose.
