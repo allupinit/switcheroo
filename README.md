@@ -1,5 +1,5 @@
 # switcheroo
-Switch (or add) an Exchange SMTP Alias temporarily
+Switch (or add) an Exchange SMTP Alias temporarily.
 
 The original version has been tested by me, and is fully operational with no known glitches.
 
