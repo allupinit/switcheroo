@@ -1,5 +1,5 @@
 # switcheroo
-Switch (or add) and Exchange SMTP Alias temporarily
+Switch (or add) an Exchange SMTP Alias temporarily
 
 Original version of the Powershell Script.
 Tested, and fully operational with no known glitches.
